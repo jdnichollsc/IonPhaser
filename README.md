@@ -14,6 +14,9 @@ The **CSS Animations** have a better performance but **WebGL/Canvas** is more po
 * Preview the app using the ID: **fed7b239**
 * That's all, folks!!
 
+# Buy
+You can buy this product [here](https://gumroad.com/l/qXpUV).
+
 # Documentation
 You can check the documentation **[here](https://docs.google.com/document/d/11B10Z--Nsi7b0DAPknckrai29jjccASKQH6jkTcWEew/edit?usp=sharing)** to see how the project is structured.
 
