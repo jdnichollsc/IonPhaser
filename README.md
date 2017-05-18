@@ -1,5 +1,5 @@
 # **IonPhaser Support - Create More Advanced Hybrid Mobile Apps for Modern Devices**
-> Support to IonPhaser directive. Issues of the examples included in the template and any doubt about the Ionic Project. 
+> Support to IonPhaser directive. Issues of the examples included in the template and any question about this Ionic Project. 
 
 ![Ionicmeets Phaser](https://raw.githubusercontent.com/jdnichollsc/IonPhaser/master/assets/3.jpg)
 
